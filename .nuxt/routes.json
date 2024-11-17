@@ -1,0 +1,485 @@
+[
+  {
+    "name": "home-app-landing",
+    "path": "/home-app-landing",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-app-landing\\\\index.vue",
+    "chunkName": "pages/home-app-landing/index",
+    "_name": "_076e7c7f"
+  },
+  {
+    "name": "home-app-landing-onePage",
+    "path": "/home-app-landing-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-app-landing-onePage\\\\index.vue",
+    "chunkName": "pages/home-app-landing-onePage/index",
+    "_name": "_fdb69592"
+  },
+  {
+    "name": "home-cloud-hosting",
+    "path": "/home-cloud-hosting",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-cloud-hosting\\\\index.vue",
+    "chunkName": "pages/home-cloud-hosting/index",
+    "_name": "_657334e8"
+  },
+  {
+    "name": "home-crypto",
+    "path": "/home-crypto",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-crypto\\\\index.vue",
+    "chunkName": "pages/home-crypto/index",
+    "_name": "_240d3aa9"
+  },
+  {
+    "name": "home-cyber-security",
+    "path": "/home-cyber-security",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-cyber-security\\\\index.vue",
+    "chunkName": "pages/home-cyber-security/index",
+    "_name": "_78c90954"
+  },
+  {
+    "name": "home-data-analysis",
+    "path": "/home-data-analysis",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-data-analysis\\\\index.vue",
+    "chunkName": "pages/home-data-analysis/index",
+    "_name": "_27af1ccb"
+  },
+  {
+    "name": "home-digital-agency",
+    "path": "/home-digital-agency",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-digital-agency\\\\index.vue",
+    "chunkName": "pages/home-digital-agency/index",
+    "_name": "_b31f5720"
+  },
+  {
+    "name": "home-digital-agency-onePage",
+    "path": "/home-digital-agency-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-digital-agency-onePage\\\\index.vue",
+    "chunkName": "pages/home-digital-agency-onePage/index",
+    "_name": "_c667e7b0"
+  },
+  {
+    "name": "home-freelance-personal",
+    "path": "/home-freelance-personal",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-freelance-personal\\\\index.vue",
+    "chunkName": "pages/home-freelance-personal/index",
+    "_name": "_0e6429cc"
+  },
+  {
+    "name": "home-help-desk",
+    "path": "/home-help-desk",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-help-desk\\\\index.vue",
+    "chunkName": "pages/home-help-desk/index",
+    "_name": "_a39dfdf6"
+  },
+  {
+    "name": "home-it-solutions",
+    "path": "/home-it-solutions",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-it-solutions\\\\index.vue",
+    "chunkName": "pages/home-it-solutions/index",
+    "_name": "_0e076312"
+  },
+  {
+    "name": "home-it-solutions-onePage",
+    "path": "/home-it-solutions-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-it-solutions-onePage\\\\index.vue",
+    "chunkName": "pages/home-it-solutions-onePage/index",
+    "_name": "_0ec358ca"
+  },
+  {
+    "name": "home-it-solutions2",
+    "path": "/home-it-solutions2",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-it-solutions2\\\\index.vue",
+    "chunkName": "pages/home-it-solutions2/index",
+    "_name": "_3fcb0760"
+  },
+  {
+    "name": "home-marketing-startup",
+    "path": "/home-marketing-startup",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-marketing-startup\\\\index.vue",
+    "chunkName": "pages/home-marketing-startup/index",
+    "_name": "_1b5bdf98"
+  },
+  {
+    "name": "home-marketing-startup-onePage",
+    "path": "/home-marketing-startup-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-marketing-startup-onePage\\\\index.vue",
+    "chunkName": "pages/home-marketing-startup-onePage/index",
+    "_name": "_0db07828"
+  },
+  {
+    "name": "home-nft-marketplace",
+    "path": "/home-nft-marketplace",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-nft-marketplace\\\\index.vue",
+    "chunkName": "pages/home-nft-marketplace/index",
+    "_name": "_40724fd0"
+  },
+  {
+    "name": "home-payment-solutions",
+    "path": "/home-payment-solutions",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-payment-solutions\\\\index.vue",
+    "chunkName": "pages/home-payment-solutions/index",
+    "_name": "_414d9ad7"
+  },
+  {
+    "name": "home-saas-technology",
+    "path": "/home-saas-technology",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-saas-technology\\\\index.vue",
+    "chunkName": "pages/home-saas-technology/index",
+    "_name": "_c46e079e"
+  },
+  {
+    "name": "home-saas-technology-onePage",
+    "path": "/home-saas-technology-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-saas-technology-onePage\\\\index.vue",
+    "chunkName": "pages/home-saas-technology-onePage/index",
+    "_name": "_282562e9"
+  },
+  {
+    "name": "home-shop-modern",
+    "path": "/home-shop-modern",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-shop-modern\\\\index.vue",
+    "chunkName": "pages/home-shop-modern/index",
+    "_name": "_93d46f98"
+  },
+  {
+    "name": "home-software-company",
+    "path": "/home-software-company",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-software-company\\\\index.vue",
+    "chunkName": "pages/home-software-company/index",
+    "_name": "_51afc15a"
+  },
+  {
+    "name": "home-software-company-onePage",
+    "path": "/home-software-company-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\home-software-company-onePage\\\\index.vue",
+    "chunkName": "pages/home-software-company-onePage/index",
+    "_name": "_c26f77ea"
+  },
+  {
+    "name": "page-404",
+    "path": "/page-404",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-404\\\\index.vue",
+    "chunkName": "pages/page-404/index",
+    "_name": "_244db83c"
+  },
+  {
+    "name": "page-about-2",
+    "path": "/page-about-2",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-about-2\\\\index.vue",
+    "chunkName": "pages/page-about-2/index",
+    "_name": "_158382e8"
+  },
+  {
+    "name": "page-about-5",
+    "path": "/page-about-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-about-5\\\\index.vue",
+    "chunkName": "pages/page-about-5/index",
+    "_name": "_2c987305"
+  },
+  {
+    "name": "page-about-app",
+    "path": "/page-about-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-about-app\\\\index.vue",
+    "chunkName": "pages/page-about-app/index",
+    "_name": "_fc509cce"
+  },
+  {
+    "name": "page-blog-5",
+    "path": "/page-blog-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-blog-5\\\\index.vue",
+    "chunkName": "pages/page-blog-5/index",
+    "_name": "_480908b0"
+  },
+  {
+    "name": "page-blog-5-left-sidebar",
+    "path": "/page-blog-5-left-sidebar",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-blog-5-left-sidebar\\\\index.vue",
+    "chunkName": "pages/page-blog-5-left-sidebar/index",
+    "_name": "_27f2ba7e"
+  },
+  {
+    "name": "page-blog-5-wide",
+    "path": "/page-blog-5-wide",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-blog-5-wide\\\\index.vue",
+    "chunkName": "pages/page-blog-5-wide/index",
+    "_name": "_6bb21064"
+  },
+  {
+    "name": "page-blog-app",
+    "path": "/page-blog-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-blog-app\\\\index.vue",
+    "chunkName": "pages/page-blog-app/index",
+    "_name": "_f90ceef8"
+  },
+  {
+    "name": "page-blog-app-left-sidebar",
+    "path": "/page-blog-app-left-sidebar",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-blog-app-left-sidebar\\\\index.vue",
+    "chunkName": "pages/page-blog-app-left-sidebar/index",
+    "_name": "_4d710926"
+  },
+  {
+    "name": "page-blog-app-wide",
+    "path": "/page-blog-app-wide",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-blog-app-wide\\\\index.vue",
+    "chunkName": "pages/page-blog-app-wide/index",
+    "_name": "_110755e0"
+  },
+  {
+    "name": "page-career-details",
+    "path": "/page-career-details",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-career-details\\\\index.vue",
+    "chunkName": "pages/page-career-details/index",
+    "_name": "_57606a32"
+  },
+  {
+    "name": "page-careers-5",
+    "path": "/page-careers-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-careers-5\\\\index.vue",
+    "chunkName": "pages/page-careers-5/index",
+    "_name": "_767cc2dd"
+  },
+  {
+    "name": "page-comming-soon-5",
+    "path": "/page-comming-soon-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-comming-soon-5\\\\index.vue",
+    "chunkName": "pages/page-comming-soon-5/index",
+    "_name": "_143b6700"
+  },
+  {
+    "name": "page-contact-5",
+    "path": "/page-contact-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-contact-5\\\\index.vue",
+    "chunkName": "pages/page-contact-5/index",
+    "_name": "_7535ad52"
+  },
+  {
+    "name": "page-contact-app",
+    "path": "/page-contact-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-contact-app\\\\index.vue",
+    "chunkName": "pages/page-contact-app/index",
+    "_name": "_180f8ca6"
+  },
+  {
+    "name": "page-faq-5",
+    "path": "/page-faq-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-faq-5\\\\index.vue",
+    "chunkName": "pages/page-faq-5/index",
+    "_name": "_04aade1c"
+  },
+  {
+    "name": "page-portfolio-5",
+    "path": "/page-portfolio-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-portfolio-5\\\\index.vue",
+    "chunkName": "pages/page-portfolio-5/index",
+    "_name": "_54f4612a"
+  },
+  {
+    "name": "page-portfolio-app",
+    "path": "/page-portfolio-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-portfolio-app\\\\index.vue",
+    "chunkName": "pages/page-portfolio-app/index",
+    "_name": "_02f0aa7e"
+  },
+  {
+    "name": "page-product-5",
+    "path": "/page-product-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-product-5\\\\index.vue",
+    "chunkName": "pages/page-product-5/index",
+    "_name": "_0a73e63a"
+  },
+  {
+    "name": "page-product-app",
+    "path": "/page-product-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-product-app\\\\index.vue",
+    "chunkName": "pages/page-product-app/index",
+    "_name": "_7b064bf7"
+  },
+  {
+    "name": "page-services-5",
+    "path": "/page-services-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-services-5\\\\index.vue",
+    "chunkName": "pages/page-services-5/index",
+    "_name": "_fa555d18"
+  },
+  {
+    "name": "page-services-app",
+    "path": "/page-services-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-services-app\\\\index.vue",
+    "chunkName": "pages/page-services-app/index",
+    "_name": "_3c56b048"
+  },
+  {
+    "name": "page-services-details-5",
+    "path": "/page-services-details-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-services-details-5\\\\index.vue",
+    "chunkName": "pages/page-services-details-5/index",
+    "_name": "_69e91fc2"
+  },
+  {
+    "name": "page-shop-5",
+    "path": "/page-shop-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-shop-5\\\\index.vue",
+    "chunkName": "pages/page-shop-5/index",
+    "_name": "_0dd565dc"
+  },
+  {
+    "name": "page-shop-app",
+    "path": "/page-shop-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-shop-app\\\\index.vue",
+    "chunkName": "pages/page-shop-app/index",
+    "_name": "_07a34ab0"
+  },
+  {
+    "name": "page-sign-in",
+    "path": "/page-sign-in",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-sign-in\\\\index.vue",
+    "chunkName": "pages/page-sign-in/index",
+    "_name": "_aa9dfc76"
+  },
+  {
+    "name": "page-single-post-5",
+    "path": "/page-single-post-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-post-5\\\\index.vue",
+    "chunkName": "pages/page-single-post-5/index",
+    "_name": "_4de99ae6"
+  },
+  {
+    "name": "page-single-post-5-left-sidebar",
+    "path": "/page-single-post-5-left-sidebar",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-post-5-left-sidebar\\\\index.vue",
+    "chunkName": "pages/page-single-post-5-left-sidebar/index",
+    "_name": "_10062804"
+  },
+  {
+    "name": "page-single-post-5-wide",
+    "path": "/page-single-post-5-wide",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-post-5-wide\\\\index.vue",
+    "chunkName": "pages/page-single-post-5-wide/index",
+    "_name": "_c87eeeb2"
+  },
+  {
+    "name": "page-single-post-app",
+    "path": "/page-single-post-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-post-app\\\\index.vue",
+    "chunkName": "pages/page-single-post-app/index",
+    "_name": "_46cea1be"
+  },
+  {
+    "name": "page-single-post-app-left-sidebar",
+    "path": "/page-single-post-app-left-sidebar",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-post-app-left-sidebar\\\\index.vue",
+    "chunkName": "pages/page-single-post-app-left-sidebar/index",
+    "_name": "_090a8820"
+  },
+  {
+    "name": "page-single-post-app-wide",
+    "path": "/page-single-post-app-wide",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-post-app-wide\\\\index.vue",
+    "chunkName": "pages/page-single-post-app-wide/index",
+    "_name": "_5dcdc893"
+  },
+  {
+    "name": "page-single-project-5",
+    "path": "/page-single-project-5",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-project-5\\\\index.vue",
+    "chunkName": "pages/page-single-project-5/index",
+    "_name": "_51a862fe"
+  },
+  {
+    "name": "page-single-project-app",
+    "path": "/page-single-project-app",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\page-single-project-app\\\\index.vue",
+    "chunkName": "pages/page-single-project-app/index",
+    "_name": "_baa8f15c"
+  },
+  {
+    "name": "rtl-home-app-landing-onePage",
+    "path": "/rtl-home-app-landing-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-home-app-landing-onePage\\\\index.vue",
+    "chunkName": "pages/rtl-home-app-landing-onePage/index",
+    "_name": "_20bf8254"
+  },
+  {
+    "name": "rtl-home-marketing-startup",
+    "path": "/rtl-home-marketing-startup",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-home-marketing-startup\\\\index.vue",
+    "chunkName": "pages/rtl-home-marketing-startup/index",
+    "_name": "_ecf0fede"
+  },
+  {
+    "name": "rtl-home-marketing-startup-onePage",
+    "path": "/rtl-home-marketing-startup-onePage",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-home-marketing-startup-onePage\\\\index.vue",
+    "chunkName": "pages/rtl-home-marketing-startup-onePage/index",
+    "_name": "_58c98749"
+  },
+  {
+    "name": "rtl-page-about",
+    "path": "/rtl-page-about",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-about\\\\index.vue",
+    "chunkName": "pages/rtl-page-about/index",
+    "_name": "_35003a4a"
+  },
+  {
+    "name": "rtl-page-blog",
+    "path": "/rtl-page-blog",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-blog\\\\index.vue",
+    "chunkName": "pages/rtl-page-blog/index",
+    "_name": "_9ea5b14a"
+  },
+  {
+    "name": "rtl-page-contact",
+    "path": "/rtl-page-contact",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-contact\\\\index.vue",
+    "chunkName": "pages/rtl-page-contact/index",
+    "_name": "_3b67bed2"
+  },
+  {
+    "name": "rtl-page-portfolio",
+    "path": "/rtl-page-portfolio",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-portfolio\\\\index.vue",
+    "chunkName": "pages/rtl-page-portfolio/index",
+    "_name": "_c2b791a2"
+  },
+  {
+    "name": "rtl-page-product",
+    "path": "/rtl-page-product",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-product\\\\index.vue",
+    "chunkName": "pages/rtl-page-product/index",
+    "_name": "_8e3d9f30"
+  },
+  {
+    "name": "rtl-page-services",
+    "path": "/rtl-page-services",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-services\\\\index.vue",
+    "chunkName": "pages/rtl-page-services/index",
+    "_name": "_df1650c2"
+  },
+  {
+    "name": "rtl-page-shop",
+    "path": "/rtl-page-shop",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-shop\\\\index.vue",
+    "chunkName": "pages/rtl-page-shop/index",
+    "_name": "_6606df87"
+  },
+  {
+    "name": "rtl-page-single-post",
+    "path": "/rtl-page-single-post",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-single-post\\\\index.vue",
+    "chunkName": "pages/rtl-page-single-post/index",
+    "_name": "_56e42212"
+  },
+  {
+    "name": "rtl-page-single-project",
+    "path": "/rtl-page-single-project",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\rtl-page-single-project\\\\index.vue",
+    "chunkName": "pages/rtl-page-single-project/index",
+    "_name": "_f471952e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\AG_APPS\\\\iteck-nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7e4d371c"
+  }
+]
